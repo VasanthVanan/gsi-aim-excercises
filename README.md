@@ -1,7 +1,7 @@
-# data-science-excercise
+# gsi-aim-excercises
 
-This repository contains various Jupyter notebooks for which i have created to experiment the libraries,exercises as well as regression models :
+This repository contains various Jupyter notebooks that i have created to experiment the libraries,exercises as well as the regression models :
 
 ## Getting Started:
 
-- Numpy - a Python extension module
+- Numpy - a Python extension module for scientific computing.
