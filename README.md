@@ -14,4 +14,4 @@ This repository contains various Jupyter notebooks that i have created to experi
 ## Regression Models:
 
 - 05: [Linear Regression](https://github.ibm.com/vasinter/gsi-aim-excercises/tree/master/05.%20Linear%20Regression), models the relationship between two variables by fitting a linear equation to observed data.
-- 06. [Ridge Regression](https://github.ibm.com/vasinter/gsi-aim-excercises/blob/master/06.%20Ridge%20Regression/Ridge%20Regression.ipynb), a technique to reduce model complexity and prevent over-fitting which may result from simple linear regression.
+- 06: [Ridge Regression](https://github.ibm.com/vasinter/gsi-aim-excercises/blob/master/06.%20Ridge%20Regression/Ridge%20Regression.ipynb), a technique to reduce model complexity and prevent over-fitting which may result from simple linear regression.
